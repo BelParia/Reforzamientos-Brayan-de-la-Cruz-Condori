@@ -4,13 +4,12 @@
 
 ### Ejercicio 2
 """
-Crear una función decoradora que dará los buenos días antes de
-ejecutar una función llamada saludo_inicial(nombre) a ser decorada
-“Buenos días NOMBRE son las HORA horas con MINUTOS minutos” y
-luego de ser ejecutada lanzará un mensaje diciendo “Hasta luego
-NOMBRE que tenga buen día”.
-La función a decorar pedirá el nombre de una persona y retornará el
-mensaje.
+Haciendo el uso de *args y **kwargs aplicarlo debidamente para
+decorar una función que recibirá 6 argumentos los cuales se
+multiplicarán entre ellos (3 de ellos serán usado con **kwargs)
+Mensaje previo al usar el decorador “Está por ejecutarse la función” y
+mensaje luego de usar el decorador “La función ha sido ejecutado
+correctamente”
 Usar la función decorada al menos 3 veces
 """
 
