@@ -2,7 +2,7 @@
 
 ## Modulo
 
-### Ejercicio 2, en el documento no sigue el orden adecuado
+### Ejercicio 2
 """
 Creando un archivo principal (main.py) donde llamará a un módulo
 (operaciones.py) el cuál contendrá las siguientes funciones: - La primera función cargará a 3 números enteros que pedirá al
